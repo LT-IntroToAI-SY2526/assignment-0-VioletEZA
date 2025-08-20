@@ -1,7 +1,8 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** Emma Adan  
+
+**Date:** 08/20/2025
 
 ---
 
