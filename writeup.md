@@ -35,7 +35,7 @@ A repository is thought of like a folder for the project. It also contains the h
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-I'm excited to learn more about how AI is currently having an impact on current events and society and how that may change in the future years. I'm excited for that because it seems interesting and I love learning new things and connections between different things.
+I'm excited to learn more about how AI is currently having an impact on current events and society and how that may change in the future years! I'm excited for that because it seems interesting and I love learning new things and connections between different things.
 
 ---
 
