@@ -19,7 +19,7 @@ Committing and pushing are how people can put any changes made on their device t
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository is thought of like a folder for the project. It also contains the history of any changes made as well as the program files. A repository can be for just someone by themself or for a group of people.
 
 ---
 
@@ -27,7 +27,7 @@ Committing and pushing are how people can put any changes made on their device t
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+(https://github.com/VioletEZA/VioletEZA)
 
 ---
 
@@ -35,7 +35,7 @@ Committing and pushing are how people can put any changes made on their device t
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I'm excited to learn more about how AI is currently having an impact on current events and society and how that may change in the future years. I'm excited for that because it seems interesting and I love learning new things and connections between different things.
 
 ---
 
